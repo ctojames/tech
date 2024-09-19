@@ -1,1 +1,1 @@
-# tech
+# Tech Solution
